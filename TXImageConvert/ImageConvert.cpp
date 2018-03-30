@@ -55,6 +55,8 @@ bool ImageConvert::Convert(const std::string& strInFile,
     {
         if (bSkipNormal)
         {
+            fin.close();
+            fout.close();
             return false;
         }
         else
