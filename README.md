@@ -1,0 +1,2 @@
+# TXImageConvert
+把TX手游apk安装包中不能直接打开的png图片转化成正常的png图片
